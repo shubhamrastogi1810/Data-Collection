@@ -1,0 +1,88 @@
+Job:- Software Engineer Intermediat/Senior (at Crown Equipment Limited, Auckland, NZ)
+Link: https://www.seek.co.nz/job/51298359?type=standout#searchRequestToken=332b9bf0-74e5-4b4a-b07e-1da982f66520
+
+
+Responsibilities:
+
+-> Working with the team to design software to meet product requirements.
+-> Writing code to meet design requirements.
+-> Developing and writing automated tests.
+-> Testing software against real-world automated lift trucks.
+-> Continuously pushing for improvements in both our technology and processes.
+-> Some international travel is required to support global development and deployments.   Travel is currently not a requirement due to Covid-19.
+
+
+Requirements:
+
+    Desirable Skills
+
+-> Experience using Python and C++ in a Linux development environment.
+-> Understanding of client-server communications (such as REST or MQTT).
+-> Strong communication.
+-> Critical and creative thinking.
+
+
+Qualifications:
+
+-> Software development related degree or equivalent work experience.
+-> 3+ years of development experience.
+
+
+
+Job: Intermediate Software Engineer (at Flock Consulting, Otago, NZ)
+Link: https://www.seek.co.nz/job/51319001?type=standard#searchRequestToken=332b9bf0-74e5-4b4a-b07e-1da982f66520
+
+Responsibilities:
+
+-> Contributing to the development effort within the team.
+-> Applying software best practices and processes, providing value to the team,
+   customers and organisation.
+-> Supporting the design, development and deployment of technical solutions.
+
+
+Skills and experience required:
+
+-> Front-end web development experience using frameworks such as ReactJS and NodeJS
+-> Experience with JavaScript, Python and SQL
+-> Experience working with cloud services: Azure and AWS.
+-> Experience with Linux is desirable
+-> Excellent communication skills both verbal and written.
+-> Maintaining clear and regular communication with the team.
+
+Bonus Point:
+-> Experience in the Health Industry.
+
+Benefits:
+
+-> Innovative team based in Dunedin and Christchurch – All applicants must reside
+   and be able to work in New Zealand.
+-> Preferable to be located in Dunedin or Christchurch, however remote will be
+   considered for the right candidate.
+-> Great culture with strong values.
+-> We blend office based and work from home for flexibility while maintaining a
+   solid team culture.
+
+
+Job: Flight Software Engineer II (at Rocket Lab, Auckland Central, NZ)
+Link: https://www.seek.co.nz/job/51242826?type=standout#searchRequestToken=332b9bf0-74e5-4b4a-b07e-1da982f66520
+
+Requirements:
+
+-> Tertiary Diploma, Certificate or degree in Software Engineering, Computer Science,
+   Electrical Engineering or demonstrated equivalent level of knowledge.
+-> Minimum of 2 years experience within a software engineering related discipline.
+-> Rust development (2yrs+)
+-> C/C++ development
+-> Linux application development
+-> Networked application development
+-> Experience with Git
+-> Experience with Redmine, Jira, Bugzilla, Mantis, or other issue tracker
+
+Desirable
+
+-> Embedded software development
+-> Linux kernel development
+-> Experience with Scrum
+-> FPGA Development
+-> ARM Development
+-> Python
