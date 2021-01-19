@@ -1,0 +1,102 @@
+Python Developer in Australia
+
+
+Benefits
+
+    Highly skilled, senior and friendly team;
+    Great clients + interesting work;
+    Learning Budget of $2,000 plus two days of personal development
+    every year;
+    We’ll also chip in for your Internet and phone with our Communications
+    Allowance, and contribute towards keeping your laptop up to date!
+    
+    Employee Stock Ownership Plan. That’s right, everyone that works for
+    Airteam has the opportunity to own part of the company!
+
+
+Essential skills for this role
+
+    5+ years of solid Python experience.
+
+    Experience with AWS. Certifications highly regarded.
+
+    You are a self-starter and can work within a team to ship high-quality
+    code
+
+    You are an excellent communicator, written and verbal
+
+    You have experience communicating with clients
+
+
+Python Developer with Django (Canva,Australia)
+
+
+Required Experience & Skills
+
+    A few years of professional software development experience writing 
+    high-performance production quality code in Python, with knowledge of 
+    the Django framework
+    
+    Experience developing large scale web applications and portals - a 
+    background in eCommerce or other high-volume web portals would be beneficial
+    Broad knowledge of Cloud (AWS), Networking, and OS (Linux) concepts,
+    services, and best practices
+    
+    Strong grounded computer science and engineering fundamentals including 
+    concurrency, multithreading, data structures, solution design, architecture,    and design patterns
+
+    Strong written and verbal communication and collaborative skills
+
+
+Bonus Experience & Skills
+
+    Experience with ElasticSearch or similar
+
+
+Benefits and Perks
+
+    Competitive salary, plus stock options via our ESOP plan
+
+    Flexible daily working hours, we value work-life balance
+
+    Breakfast and lunch prepared by our wonderful Vibe team
+    Onsite-Gym and Yoga Membership
+
+    End-of-Trip Facilities: Bicycle parking and showers
+
+    Generous parental (including secondary) leave policy
+    Pet-friendly offices
+
+    Internal Coaches and an Employee Wellness Program
+
+    Sponsored social clubs, team events, and celebrations
+
+    Relocation budget for interstate or overseas individuals
+
+
+
+
+Python Developer 
+
+Company: Talent(Melbourne,Victoria,Australia)
+
+Requirements
+
+    Extensive experience with Python
+
+    Experience with Relational databases like PostgreSQL
+
+    Strong Linux system administration skills and shell scripting languages
+    Docker and Kubernetes
+
+    Cloud Orchestration
+
+    Any experience working with scientific data captured using remote 
+    sensors / understanding of remote sensing concepts, highly regarded
+    Strong version and source control management
+
+    Excellent communicator and proactive, self motivated approach to work 
+    fully remotely
+    
+    Ability to engage with global stakeholders (internal and external) 
+    within this niche scientific community

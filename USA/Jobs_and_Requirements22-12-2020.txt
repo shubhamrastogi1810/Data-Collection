@@ -1,0 +1,76 @@
+Job in Google for a Software Developer  at (California, San Francisco, New York)
+Link :-   https://careers.google.com/jobs/results/128310308272775878-software-engineer/?q=python%20developer
+
+Post:- Software Engineer
+
+Minimum Qualification:-
+	
+	Bachelor’s degree or equivalent practical experience.
+	3 years of software development experience, or 1 year with an advanced degree.
+	Experience in Java, C/C++, C#, Objective C, Python, JavaScript, or Go.
+	Experience in web/mobile application development, Unix/Linux environments, distributed/parallel systems, information retrieval,
+	networking, or systems/security software development.
+
+Preferred qualifications:
+
+	Master’s, PhD degree, further education or experience in engineering, computer science or other technical related field.
+	Experience developing accessible technologies.
+	Interest and ability to learn other coding languages as needed.
+	Ability to write in English fluently and idiomatically.
+
+Responsibilities :- 
+
+	Design, develop, test, deploy, maintain and improve software.
+	Manage individual project priorities, deadlines and deliverables.
+
+
+
+Post: Software Engineer, Security.
+
+Link:-   https://careers.google.com/jobs/results/94614909834142406-software-engineer-security/?hl=en_US&jlo=en_US&location=Chicago,%20IL,%20USA&q=&skills=python
+
+Minimum Qualification:-
+
+	Bachelor's degree in Computer Science or equivalent practical experience.
+	Experience with one or more general purpose programming languages including but not 
+	limited to: Java, C/C++, C#, Objective C, Python, JavaScript, or Go.
+
+Preferred qualifications :-
+
+	Master's or PhD degree in Computer Science.
+	10 years of experience designing and implementing software systems in Java, C, C++ and/or Python,
+	including experience designing security solutions for operating systems and distributed systems.
+	Experience in applications security, cryptography, network security, systems security or malware analysis.
+
+Responsibilities :-
+	
+	Research, design and apply advanced security techniques.
+	Design and engineer cloud security services and infrastructure.
+	Develop advanced security and cryptographic systems.
+	Build large-scale detection systems.
+
+
+
+Post :- Software Development, Chrome Enterprise (Canada.)
+Link:-  https://careers.google.com/jobs/results/72487904858776262-software-developer-chrome-enterprise/?location=Canada&q=software%20developer
+Minimum Qualification:-
+
+	Bachelor's degree or equivalent practical experience.
+	3 years of relevant work experience or 1 year with an advanced degree in Computer Science or related field.
+	Experience in software development and coding in one or more general-purpose programming languages 
+	(Java, C/C++, C#, Objective C, Python, JavaScript, and Go).
+
+Preferred qualifications:
+
+	Experience developing accessible technologies.
+	Ability and interest to learn other coding languages as needed.
+	Ability to write in English fluently.
+
+Responsibilities:-
+
+	Work with product managers and UX designers to deliver useful features.
+	Design, develop, test, deploy, maintain, and improve software.
+	Manage individual project priorities, deadlines, and deliverables.
+	Work across the full technology stack (e.g., chromium client, server backend, frontend UI).
+
+

@@ -1,0 +1,130 @@
+Job:-  Software Developer Intern, Security, PhD, 2021. (at  Waterloo,ON,Canada )
+Link:-  https://careers.google.com/jobs/results/74358802142372550/
+
+# Currently this job/internship is for a student pursuing a PhD. Degree.
+
+Minimum qualifications:
+
+    Currently pursuing a PhD degree in Computer Science,
+    similar technical field of study (e.g., Engineering, Mathematics, 
+    Information Technology) or equivalent practical experience.
+
+    Experience in applications security, cryptography, network security,
+    systems security or malware analysis.
+
+
+Preferred qualifications:
+
+    Examples of coding in one of the following programming languages including 
+    but not limited to: C, C++, Java, JavaScript, or Python.
+
+    Experience designing security solutions for operating systems and distributed
+    systems.
+
+Responsibilities
+
+    Design and apply advanced security techniques.
+
+    Develop advanced security and cryptographic systems.
+
+    Build large-scale detection systems.
+
+
+
+Job:- Python Developer  at Collabera (Ottawa,ON,Canada)
+Link:- https://g.co/kgs/8enFMz
+
+
+
+Duties:
+
+    • Work with a talented software development team and other corporate team
+      members to obtain software requirements, define quality design specifications
+      based on these requirements, implement and test the proposed design.
+
+    • Ensuring high performance and responsiveness to requests from the front-end.
+
+    • Investigate and resolve technical issues reported from our customers. The 
+      candidate will be responsible for participating in these cross-functional
+      investigations to bring field issues to resolution.
+
+
+Qualifications :-
+
+
+Mandatory Experience:
+
+
+• Proven experience in large complex software projects
+
+• Expert in Python, with a working knowledge of at least one Python web framework,
+  such as Django, Flask, etc.
+
+• Understanding of the threading limitations of Python, and multi-process architecture
+
+• Familiarity with Event-driven programming in Python
+
+• Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+
+Salary for this type of work is CA$51T-89k per year.
+
+
+
+
+
+Job:- Full Stack Python Developer at Sentaca (Toronto,ON,Canada.)
+Link:- https://g.co/kgs/voxtE6
+
+Must Have Skills/Experience:-
+
+
+• Python (minimum 5 years of experience)
+
+• JavaScript (Angular.JS, React, Vue.js) or/and JQuery, HTML, CSS;
+
+• Very efficient in OO programming with Python
+
+• Working experience using Web Application frameworks (Django/Flask/Pyramid)
+
+• Working experience using Robot and Pytest frameworks
+
+• Knowledgeable in building and consuming WebServices (Rest and SOAP)
+
+• OO Design and analysis using Design Patterns
+
+• Relational and NoSQL Databases (MySQL, PostgreSQL, ElasticSearch, MongoDB)
+
+• Experience with networking (TCP/IP, IPv4/IPv6, DNS)
+
+• Knowledge of IP and/or Optical networks
+
+• Experience working in an Agile environment
+
+• Experience using Continuous Integration & Continuous Deployment (CI/CD) automation
+
+• Excellent communication skills (written and verbal).
+
+
+Nice To Have Skills/Experience
+
+
+• Familiar with frameworks Tensorflow/Keras/PyTorch
+
+• NodeJS
+
+• TypeScript
+
+• Familiar with container technologies (Docker, Kubernetes, Swarm)
+
+• Exposure to Microservices Architecture
+
+• Proven experience developing machine learning
+
+• Strong experience working with libraries NumPy/Pandas/Scikit.
+
+• Deep knowledge of maths, probability, statistics and algorithms
+
+• Linux Networking
+
+
+Typical Salary for this is CA$70T-94k per year.

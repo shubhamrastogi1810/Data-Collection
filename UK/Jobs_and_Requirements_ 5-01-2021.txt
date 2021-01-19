@@ -1,0 +1,82 @@
+Job:- Python Engineer (at X4Group Ltd. London)
+Link:- https://www.cv-library.co.uk/job/212839115/Python-Engineer
+
+For the Python Engineer role you will:
+
+	Have strong commercial experience with Python
+	Live and breathe software engineering and Python
+	Have worked in a SaaS or product based environment
+	Want to give user the best possible experience
+	Be able to recognise when it’s time to adjust the requirements if it’s getting too complex or delete and simplify if necessary
+	Be able to make things happen with team members remotely and have a strong team mind-set and work ethic
+	Be able to convey a compelling vision and gain commitment to goals
+	Be able to manage performance of others affectively and coach where required
+
+You will ideally have experience with:
+
+	MongoDB or other python libraries
+	AWS services and tools
+	REST APIs, Microservices
+	Automation and TBB / BDD
+	Django, Flask
+	High growth organisations (nice to have)
+	JavaScript, Node, npm (nice to have)
+
+Python Engineer benefits include:
+
+	Salary up to £85,000 depending on experience
+	25 days holiday
+	Cycle to work scheme
+	Season ticket loan
+	Modern work environment
+	Regular social events
+
+Job Type: Permanent and Salary:- 55k to 85k(British Pound)
+
+
+
+
+Job:- Python Software Developer (at Noa Recuruitment Ltd. Milton Keyes)
+Link:- https://www.cv-library.co.uk/job/212921931/Python-Software-Developer
+
+Skills Required:
+
+	Strong software development with Python (must be hands on)
+	Strong experience with Linux
+	Knowledge of Cloud (AWS)
+	Strong MySQL or similar
+	Any knowledge of SalesForce / Apex would be a bonus but not essential
+	Good knowledge of complex software
+	Strong communicator, listener and challenger
+
+
+Salary:- £35,000 - £50,000/annum plus bonus and benefits
+
+
+Job:- Security Solutions Architect (at Acumin, Surrey Quays, Greater London.)
+Link:- https://www.cv-library.co.uk/job/212147451/Security-Solutions-Architect
+
+
+Key Responsibilities
+
+	Ensuring that security requirements and controls are embedded into business change
+	Support the ongoing architecture of security services including infrastructure and application design
+	Regular review and input into the appropriate and ongoing use of security technologies
+	Work effectively with stakeholders to build security into new designs and patterns
+	Define secure infrastructure and application build/implementations
+	Evaluate new products and vendors during formal and informal processes
+	
+Key Accountabilities
+
+	Strong experience and a clear understanding of security access management principles and standards implementations
+	Proficient in the use of IaaS (AWS & Azure) particularly in areas such as compute, storage, network services, containers 
+	and serverless computing
+	Clear understanding of the underlying protocols and technical components used as the basis for security services, 
+	including the likes of HTTP, HTTPS, SQL, etc.
+	Banking or Finance industry related experience would be desirable
+	Degree in relevant field such as Computer Science or Engineering would be of interest, however comparable industry 
+	experience is just as valued
+	CISSP or equivalent Security certification would be preferred
+
+Salary/Rate:-    £70,000 - £80,000/annum plus strong benefits & bonus
+

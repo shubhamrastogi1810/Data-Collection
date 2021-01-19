@@ -1,0 +1,77 @@
+1) Job: Senior Python Developer (Epam Systems- Australia.)
+   Link: https://www.seek.com.au/job/51268742?type=promoted#searchRequestToken=e3e31fa4-ac29-4135-8c14-1f6f0e8142e0
+
+Requirements:
+
+
+==> Having at least 4-8+ years of experience 
+==> High proficiency in Python and unit testing, with ability to write code in mainstream Python coding style and be able to review other's code.  
+==> Excellent communication and time management skills, with a track record of handling multiple streams of tasks. 
+==> Comfortable working with JavaScript for front end developments, HTML and CSS knowledge is preferred. 
+==> Git experience is necessary. 
+==> Comfortable working on Linux-based systems.
+
+Nice To Have:
+
+==> Experience of using MySQL or other similar SQL language. 
+==> Experience in templating languages or frameworks, e.g. Django / Flask / Webapp / Jinja (candidates might be familiar with only one of them). 
+==> Experience with services API development as well as creating REST and JSON APIs. 
+==> Experience in cloud computing (Google App Engine, Compute Engine). 
+==> Experience in basic UX design and implementation.
+
+Responsibilities:-
+
+
+==> Creating Python applications using standard and client-speciﬁc software development tools to enhance client's Apps Support workﬂow. Those applications include but not limited to web applications, server-side applications. 
+==> Designing, coding, code reviewing, unit testing and troubleshooting Python applications.
+==> Working with client manager on analyzing feature requests then you'll propose the solution and provide implementation to these feature requests.
+==> Write and review technical documents, including design, development, and revision.
+
+
+2) Job: Python Developer at (Seer)
+   Link: https://www.seek.com.au/job/51255797?type=standout#searchRequestToken=e3e31fa4-ac29-4135-8c14-1f6f0e8142e0
+
+Requirements:
+
+--> 5+ years of experience writing Python (in a professional capacity)
+--> Experience and passion for software testing, security, code review, and documentation
+--> Interest or experience in interacting with wearable technology.
+--> Ability to work well in a diverse team with different backgrounds and experience levels
+--> Distributed systems
+--> Linux environments
+--> Git, CI/CD, and other modern development practices
+--> Concurrent or asynchronous network servers
+--> Building software systems that manage sensitive data
+
+
+Responsibilities:- 
+
+--> Developing, testing and maintaining code which enables our wearable technology
+--> In collaboration with the rest of the team, ensuring our software is stable, secure, resilient, documented, tested, and maintainable
+--> Proactively raising issues or ideas for how our technology should be built or improved
+--> Being an active member of the team's development and learning
+
+
+3) Job: Data Scientist (Scalene Group Pty Ltd.)
+   Link: https://www.seek.com.au/job/51260942?type=standard#searchRequestToken=e3e31fa4-ac29-4135-8c14-1f6f0e8142e0
+
+Qualifications & experience:-
+
+--> 3-5 years experience in a data analyst / reporting analyst or data scientist role, ideally with a Retailer/FMCG
+--> Exceptional analytical and insight skills, comfortable in dealing with large datasets
+--> Hands-on experience in coding and analysis using R / Python, SQL is a must.
+--> Experience with one or more from Power BI, Azure ML, Shiny is preferred
+--> Able to work with loosely defined problems, handle ambiguity well.
+--> Experience in data cleansing, validation and preparation steps
+--> Have practical and output oriented mindset
+--> Flexible and adaptable approach applied to all activities
+
+Respnisibilities:
+
+--> Prepare and analyse datasets and generate insights to help bring clients along the “project journey”.
+--> Build self service reports, dashboards and web applications
+--> Develop and deploy statistical models
+--> Convert data and analysis outputs into effective, clear communication documents appealing to a wide range of stakeholders
+--> Capture and document client requirements, and then translate them into an analytical roadmap / initiative
+--> Help identify opportunities with potential to drive value both for our clients and Scalene going forward
+--> Propose, develop and lead streams of work to support Scalene’s internal development agenda.
