@@ -1,0 +1,95 @@
+Job:- Release Engineer (Paris, France)
+Link:- https://careers.google.com/jobs/results/78724183078380230/
+
+Minimum Qualification:-
+
+
+-> Bachelor's degree or equivalent practical experience.
+-> Experience in software engineering, release engineering and/or configuration 
+   management.
+-> Experience with version control tools such as Perforce, Gerrit, Git, Jenkins or 
+   Subversion.
+-> Experience with multiple open source configuration systems (e.g. CMake, Make, 
+   Bazel, and Visual Studio solutions). Experience with C++ and shell.
+
+Preferred qualifications:
+
+-> Mastery of multiple public package management systems such as Nuget, Pypi, Conan,
+   Maven, and Homebrew
+-> Experience with popular continuous integration tools Travis-CI, Appveyor, and 
+   Docker
+-> Experience with optimization solvers such as SCIP, CBC, CLP, and GLPK.
+-> Proficiency in C++ and Python, and wrapping tools like SWIG, pybind11, and JNI
+-> Ability to answer end-user questions with clarity and empathy.
+
+
+Responsibilities:
+
+-> Take the Operations Research team's technology and expose it to the world via 
+   OR-Tools , our open source platform. Support the OR-Tools software suite.
+-> Ensure that OR-Tools builds and performs well on modern versions of Linux, Windows,    and Mac OS X, and from C++, Python, C#, and Java.
+-> Create (and automate, to the extent possible) a release process that bridges 
+   Google's internal source code repository and similar external repositories.
+-> Maintain OR-Tools as its dependencies change, as its supported optimization 
+   solvers improve, and as new examples are contributed.
+-> Answer user questions on our public forums.
+
+
+Jobs: Senior Computer Vision Scientist (France, Europe)
+Link: https://www.totaljobs.com/job/senior-computer-scientist/ic-resources-job91704542
+
+Requirements :
+
+-> MSc or PhD in Computer Vision
+-> 4+ years full-time industry experience in computer vision, deep learning
+-> State of the art algorithm development, from design to implementation
+-> Python
+-> TensorFlow, PyTorch
+-> OpenCV
+-> English Fluency (+ French would be highly beneficial)
+
+
+Responsibilities:
+
+-> Innovative computer vision & deep learning algorithm R&D
+-> Participate in product development
+-> Help grow the computer vision team
+
+The Right Person will Receive:
+
+-> €60-65,000 DOE
+-> Equity and more!
+
+
+Job: DevOps and Release Manager (at Microtech Global Ltd.)(France, Europe)
+Link: https://www.totaljobs.com/job/release-manager/microtech-global-ltd-job91728927
+
+Requirements:
+
+-> MS degree in computer science, engineering or other relevant technical field
+-> 10+ years of experience in software production
+-> Proven experience with customer grade software in a CI/CD agile environment
+-> Release management experience (ideally on multiple platforms and OS)
+-> Good knowledge of Linux and/or Windows platforms
+-> Excellent skills in scripting environment on both Linux and Windows
+
+Would be a plus:
+
+-> Knowledge of a software quality process such as CMM
+-> Experience of C++ and Python development
+-> Experience with Atlassian toolsuite (jira, bitbucket, bamboo), GIT and/or Amazon 
+   Web Services
+-> Any experience in an open-source project
+
+
+Responsibilities:
+
+-> Continuously improve the agile software development process
+-> Establish high-quality standards for the production of software and drive their
+   adoption
+-> Establish quality gates, provide QA KPIs and resource tracking dashboards
+-> Define and implement the test strategy. Make it happen by influencing the adoption 
+   of best practices
+-> Own the release production process and implement it in conjunction with the 
+   Product Team
+-> Own licenses and license attribution for open source software
