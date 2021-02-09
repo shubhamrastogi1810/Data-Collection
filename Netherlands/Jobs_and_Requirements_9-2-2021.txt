@@ -1,0 +1,80 @@
+Job:- Senior Software Engineer (Eindhoven,Noord-Brabant)
+Link:- https://www.totaljobs.com/job/senior-software-engineer/ic-resources-job91842517
+
+Requirements:
+
+-> Modern C++ 13 minimum 
+-> Python with FLASK / OpenAPI
+-> Experience with RESTful and JSON
+-> Linux & Cloud based platforms
+-> CI/CD; Kubernetes, Docker or Jenkins
+-> NDS/Navigation or Data Analysis experience preferred 
+-> English Speaking and Written 
+
+Responsiblities:
+
+-> working on cloud based micro-services for the back end software architecture 
+   providing data for the autonomous vehicles.
+
+-> working on the data systems and tasks include: design and development of cloud base
+   navigation systems, perform automated tests, code review, and creation and updating
+   of software data.
+
+Salary Offers :- Between €50,000 - €75,000
+
+
+
+
+Job:- TMS Solution Expert (Amsterdam, Noord-Holland)
+Link:- https://www.totaljobs.com/job/tms-solution-expert/ic-resources-job91674477?r=9-Results
+
+Requirements:
+
+-> Bachelor's Degree in Supply Chain Management, Business Administration, Computer 
+   Science or experience in lieu of education.
+-> Minimal 3 years of experience as consultant or business analyst in a logistics 
+   environment.
+-> SCM expertise in general and transport management knowledge in Europe in particular.-> TMS expertise in general, preferably JDA TMS.
+-> Experience with executive and cross-functional presentations and communication.
+-> English fluency in word and writing.
+-> Based in the Netherlands (or willing to relocate).
+
+
+Responsibilities:
+
+-> Capture business and functional requirements, including leading customer 
+   requirements validation sessions and site visits.
+-> Prepare customer SOP’s.
+-> Manage project activities (scope, plan, organize, monitor and report).
+-> Actively collaborate with operations, project, design and support teams.
+-> Serve as liaison between all functional groups involved in the project on both 
+   the client and the client.
+
+
+Job:- Hardware Design Engineer (Eindhoven, Noord-Holland)
+Link:- https://www.totaljobs.com/job/hardware-design-engineer/ic-resources-job91782418
+
+Requirements:
+
+-> Phd or Master degree in Electrical Engineering or Computer Science.
+-> 2+ years of industrial experience with product development.
+-> Knowledge of hardware implementations (IP blocks, ASIC, FPGA).
+-> Passion for implementation, code constructions, data structures and algorithms.
+-> Professional RTL/VHDL coding skills.
+-> Experience with verification.
+-> Excellent oral and written English.
+
+Other appreciated qualities:
+
+-> Experience with security and cryptography
+-> Affinity with verification automation
+-> Experience with Python
+-> Affinity with embedded software development
+-> Experience with Verilog, System Verilog
+
+
+Responsibilities:-
+
+-> Development and implementation of digital hardware modules for FPGA and ASIC (Logic
+   design)
+-> Verification of hardware modules
