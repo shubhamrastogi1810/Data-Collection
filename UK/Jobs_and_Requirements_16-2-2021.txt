@@ -1,0 +1,75 @@
+Job:- Junior Python Developer (at Oliver Bernard Ltd.  (City of London))
+Link:- https://www.totaljobs.com/job/junior-python-developer/oliver-bernard-ltd-job91823200
+
+Responsibilities:
+
+-> Delivering client-focused features and enhancements to the core platform
+-> Building efficient server-side applications and features in Python 3 and Django
+-> Integrating front-end components into applications.
+-> Manage testing and bug fixes.
+-> Collaborating with Product Owners and UX/UI designers to implement design into 
+   the code.
+-> Supporting the triage/closure of support tickets.
+-> Contributing to and learning from our knowledge base
+
+
+
+Ideally you will have :
+
+-> 1-3 years of experience with Python 3
+-> An understanding of server-side application development, including the HTTP 
+   request/response cycle
+-> Working knowledge of the latest web development tools and techniques (including 
+   HTML/CSS/JS)
+-> Strong communication skills to team members and clients
+-> A BSc in Computer Science, Engineering or relevant field or equivalent experience
+
+
+Job:- Graduate Python Developer (at Haylock Chase(London, South East))
+Link:- https://www.totaljobs.com/job/graduate-python-developer/haylock-chase-job91866746?PreviousOrNext=next
+
+Responsibilities:-
+
+-> Working with multiple teams and platforms to create exciting customer-based 
+   solutions
+-> Jump from back-end to front-end development,
+-> Working with technologies including Python, Django, React/ React Native
+-> As a Graduate Python Developer, your experience should include:
+-> Degree from a top university or equivalent qualification in computer science, 
+   mathematics or a related discipline with at least a 2:1 or above
+-> Strong A levels
+-> Good understanding of development technologies and frameworks such as Django and 
+   Python
+
+beneficial to have:
+
+-> Experience with Python
+-> Machine learning background
+
+In return this Graduate Python opportunity will give you:
+
+-> Salary ranging from £30,000 to £35,000, depending on experience
+-> Comprehensive benefits package,
+-> Great Leave entitlement
+-> Regular social events
+
+
+
+Job:- Python Developer (at Austin Fraser(City of London, London))
+Link:- https://www.totaljobs.com/job/python-developer/austin-fraser-job91860580?PreviousOrNext=previous
+
+Requirements
+
+-> Excellent knowledge of Python
+-> Strong knowledge of Django or Flask
+-> Great testing practices
+-> Agile project management 
+
+Experience:
+
+-> 3+ years as a developer
+-> Experience with managing people
+-> Proven delivery methods and organisational skills
+-> Collaboration works 
+
+Salary upto:- £65,000-£80,000 
