@@ -1,0 +1,96 @@
+Job:- Python Developer at (Swan Software Solutions,Carmel, IN)
+Link:- https://www.indeed.com/jobs?q=Python%20Developer&vjk=32eaa9e1e80e8c5d
+
+Qualifications:-
+
+-> Mathematics or Engineering Degree (or related field);
+-> Experience on Django and Python;
+-> Expertise in Python backend web-development;
+-> Good understanding of Python related libraries and frameworks;
+-> Fundeamentals in object-oriented design, client server aplication architecture;
+-> Asynchronous background tasks tools (Celery or Django Q for example);
+-> PRelational database knowledge (PostgreSQL as a main, SQL Server as a plus);
+-> Be familiar with Git.
+-> Intermediate level of English.
+
+Will be a plus: Vue.js, Kubernetes, Docker, Firebase
+
+Benefits:-
+
+-> A team of experienced professionals, ready to share their knowledge and skills;
+-> Strong US presence and direct communication with US team;
+-> Well set SDLC process with use of Agile, Scrum, depending on a project;
+-> Competitive salary according to your skills and expectations;
+-> Convenient office location and cosy workspace;
+-> Creative corporate events;
+-> Corporate English trainings/IT business trainings;
+-> Decent compensation package;
+-> Flexible bonus payment system enabling to invest in the life quality of our 
+   company members.
+
+
+
+Job:- Python Developer (at Intone Networks(Boston,MA))
+Link:- https://www.indeed.com/jobs?q=Python%20Developer&vjk=ae1d23a3fe65f90a
+
+
+Job Description: 
+
+• Software Engineer in Test to develop tools, framework and automated tests for 
+  Eclipse GUI IDE: 
+o Extend automated test infrastructure using Squish GUI test framework to test a 
+  new Eclipse GUI based IDE Debugger 
+o Integrate the test infrastructure with Jenkins 
+o Write automated tests based on test plan 
+o Infrastructure should work/test on both Linux and Windows 
+o Triage test failures and assign to developers 
+
+
+Requirements: 
+
+• BS/MS in CS/CE/EE 
+• Must have strong testing background and experience in test automation 
+o Test automation for GUI application 
+o Test automation for command line tools 
+• Must have proficiency in python, excellent software development skills on 
+  Linux/Windows
+• Experience in Squish, Jenkins, Groovy, git, shell scripting
+
+
+Job:- Senior Python Software Engineer (at RepTrack Company(MA))
+Link:- https://www.indeed.com/jobs?q=Python%20Developer&vjk=46951c12fa7f86ac
+
+Responsibilities:-
+
+-> Design, develop, deploy, and support scalable software systems.
+-> Provide mentorship to team members and assist with feedback on code reviews.
+-> Build and maintain operationally viable solutions throughout the software life 
+   cycle.
+-> Commit to owning your code and supporting the customer facing environment.
+-> Lead team members on independent project initiatives.
+-> Promote teamwork, research cutting edge technology, and support a vibrant 
+   innovative work atmosphere.
+-> Collaborate with Product Management, UX, and Data Science to understand business 
+   problems and identify solutions.
+
+Qualifications:-
+
+-> Production experience with scalable microservice architectures using Python/Flask
+-> Willing & able to code front to back with HTML, CSS, JavaScript, and Python
+-> Strong API first design fundamentals, data structures, and writing technical 
+   specifications for your services to interface with other teams.
+-> Strong experience working with relational database technology.
+-> Production experience with containerization technologies (Docker, Kubernetes)
+-> Ability to problem solve and drive projects with loosely defined requirements.
+-> Experience working in agile development environments.
+-> Ability to make sound decisions and work independently with minimal supervision.
+-> Experience with cloud infrastructure services such as AWS (preferred) or Azure.
+
+Nice to Have:
+
+-> BS in Computer Science or related experience.
+-> Test Driven Development.
+-> Architecture and solutions development leveraging microservices.
+-> Jenkins + Other continuous delivery system experience.
+-> Familiarity with compliant front-end development standards and accessibility best
+   practices.
