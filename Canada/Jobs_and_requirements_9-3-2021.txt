@@ -1,0 +1,91 @@
+Job:- Senior Python Developer at (Binance-Toronto,CA)
+Link:- https://ca.indeed.com/Python-Developer-jobs?vjk=0d6e19a1985d4873
+
+Responsibilities:
+
+-> Develop high-quality software using Python
+-> Identify, prioritize and execute tasks in the software development life cycle
+-> Automate tasks through tools and scripting
+-> Perform reviews and debug code
+-> Document development phases and monitor systems
+-> Make sure solutions are properly tested through automated testing tools for Python
+
+Requirements:
+
+-> At least 5+ years working with Python and known frameworks such as Django or Flask 
+   in mid to enterprise level projects
+-> Familiarity in running asynchronous operations using Python
+-> Familiarity in working with socket based services in Python
+-> Be comfortable in working with Restful and Soap based integrations as well as to 
+   handle JSON, XML responses
+-> Knowledge processing reports through files using Python
+-> Knowledge in using Redis
+-> In-depth knowledge of relational database (MySQL, Oracle, Postgres)
+-> Familiarity with UNIX based operating systems, preferably Ubuntu
+-> Analytical mind with problem solving aptitude
+-> Payment industry experience is a plus
+
+
+Conditions
+
+-> Do something meaningful; Be a part of the future of finance technology and the no.1    company in the industry
+-> Fast moving, challenging and unique business problems
+-> International work environment and flat organisation
+-> Great career development opportunities in a growing company
+-> Possibility for relocation and international transfers mid-career
+-> Competitive salary
+-> Flexible working hours, Casual work attire
+
+
+
+Job:- Python Developer (Morgan Stanley, QC)
+Link:- https://ca.indeed.com/Python-Developer-jobs?vjk=11c54f7eed0d2a00
+
+Qualification:-
+
+-> At least 3 years of experience
+-> Experience developing & designing data-driven systems in Python
+-> Experience with automated testing frameworks
+-> Strong enthusiasm for code quality, and desire to build long-standing and stable 
+   systems
+-> Strong communication skills, both technical and otherwise, that can be leveraged to    collaborate with a diverse set of stakeholders
+-> Thorough understanding of programming fundamentals such as OOP, Data Structures and    Algorithm Design
+-> Python data engineering stack including libraries such as Flask / Numpy / Pandas / 
+   Dask / Plotly / Jupyter
+
+
+
+Nice to have:
+
+-> Full stack HTML5 Web development experience
+-> KDB knowledge or experience with another high-performance timeseries database
+-> Experience with financial concepts such as equities / fixed income / options / 
+   futures
+
+
+
+
+
+Job:- Back-end Software Developer at(Vancouver)
+Link:- https://ca.indeed.com/Python-Developer-jobs?vjk=7460ba4533f79fa9
+
+Key Responsibilities:
+
+-> Design and expand features of Neurotrack’s cognitive assessment and cognitive 
+   health platforms using Python on top of AWS Cloud Infrastructure
+-> Design and document reusable APIs to support current and future products
+-> Collaborate with our research team to develop new features
+-> Maintain and extend test framework code and tools
+-> Help triage, diagnose, debug and fix issues with production systems
+
+Qualifications:
+
+-> 2-4 years of experience as a software developer
+-> Strong background in Python development (preferably Python 3)
+-> Experience with relational and NoSQL databases
+-> API development experience is a strong plus
+-> Experience in AWS, DynamoDB, and Serverless are highly desirable
+-> Dedication to good programming practices
+-> Ability to thrive in a dynamic environment
+-> Excellent interpersonal skills along with strong attention to detail
+
