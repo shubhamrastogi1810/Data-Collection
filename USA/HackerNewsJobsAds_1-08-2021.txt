@@ -1,0 +1,91 @@
+Job:- Software Engineer at(GORDIAN,Bellevue(Washington))
+Source:- https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22
+
+Requirements:- 
+
+-> 2-8 years of software engineering experience
+
+-> Ability to clearly articulate business value of your work
+
+-> Ability to grasp complex business domains
+
+-> Comfortable in a fast paced environment
+
+-> Highly motivated by the impact of your work
+
+-> Create solutions based on the situation, not dogma  
+
+-> Proactive and comfortable with ambiguity
+
+-> Proficiency in any modern tech stack and ability to ramp up on Heroku/Python
+   /Postgres stack quickly.
+
+
+
+Job:- Backend Software Engineer at( CarRev, US)
+Source:- https://boards.greenhouse.io/carerev/jobs/4533517003?gh_src=5fa785303us
+
+Requirements:- 
+
+
+-> 6+ years programming experience with Ruby and/or similar languages (Python, Perl, 
+   PHP, JS, Elixir)
+-> 3+ years of experience with Rails or other web frameworks
+-> Proficiency in working with Unix like environments
+-> Previous experience with relatively large-scale server-side applications
+-> Deep understanding and application of relational databases such as PostgreSQL or 
+   MySQL
+
+Why to Consider CarRev:- 
+
+-> Comprehensive medical, dental, and vision benefits
+-> Generous paid holidays & unlimited PTO for salaried employees
+-> 100% remote + office equipment reimbursement
+
+
+Job:-  Backend Engineer at (FlockJay California,US)
+Source:- https://jobs.lever.co/flockjay/e3367379-4214-415a-ae20-c885060c68d6
+
+
+What to Do:-
+
+-> Collaborate with our team to build, test and ship the consumer-facing product 
+   features and internal tools that power nearly all aspects of the business and help
+   us to grow & scale
+-> Make important architectural decisions that will help shape and scale our APIs and
+   systems (platform, personalization, community, growth, education, certifications)
+   as our company grows
+-> Bring a sense of ownership, demonstrate craftsmanship, enjoy collaboration, and 
+   have the drive to make an impact
+-> Help develop & foster our engineering culture through thoughtful mentorship, 
+   knowledge sharing and demonstrative application of technical best practices
+-> Design, test, and ship great code everyday
+
+Requirements:-
+
+-> 3+ years of relevant software engineering experience building web applications, 
+   bonus points if at a high-growth startup
+-> Strong knowledge of our core technologies: Python, Django, AWS
+-> Solid understanding of software engineering best practices (coding standards,
+   code reviews, testing, continuous integration)
+-> Excitement for full ownership of projects and ability to take a project from 
+   scoping requirements through actual launch
+-> Product sense and a user-orientated focus
+-> Passion for education and access to economic opportunity for people from 
+   non-traditional and underrepresented backgrounds
+
+Benefits:-
+-> Getting in on the ground floor of an innovative mission-first, people-first company    where you'll have the support to pursue your passions
+
+-> Competitive salary & meaningful equity in a well-funded startup experiencing 
+   hyper-growth
+
+-> Health and dental insurance
+
+-> Monthly health and wellness stipend
+
+-> Flexible, uncapped paid time off, in addition to company-wide holidays
+
+-> Fully remote work environment
+
+-> Fully equipped workstation
